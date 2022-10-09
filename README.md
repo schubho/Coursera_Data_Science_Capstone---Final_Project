@@ -1,4 +1,4 @@
-### Coursera Data Science Capstone: FinalProject.
+### Coursera Data Science Capstone: Final Project.
 
 Mumbai Neighborhoods Project Summary:
 
